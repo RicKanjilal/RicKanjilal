@@ -23,7 +23,7 @@ Hardware that listens to the world · signal processing · search algorithms · 
 
 ### ✍️ I sometimes write things
 
-📝 [Read on Medium](https://medium.com/@RicKanjilal)
+📝 [Read on Medium](https://medium.com/@ric.kanjilal)
 
 ### 🛠️ Stack
 
