@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🏆 <strong>Top 30 of 3,300+</strong> · Young Innovator Programme 2025–26 · IIT Kharagpur
+  
 </p>
 
 ---
