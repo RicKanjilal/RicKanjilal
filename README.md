@@ -47,11 +47,10 @@ Hardware that listens to the world. Programming language design. Search algorith
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-### 📊 GitHub
+### 🏆 GitHub
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RicKanjilal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicKanjilal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RicKanjilal&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
